@@ -28,3 +28,6 @@ python app.py
 Below message in Python shell is seen, which indicates that our App is now hosted at http://127.0.0.1:5000/ or localhost:5000
 
 * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+
+
+https://github.com/ssrakshe/Churn-analysis-Prediction/blob/7271c708672f3ba3a46b634c393d9f9ca3c0b566/Screenshot%202024-07-10%20125110.png
